@@ -15,11 +15,11 @@
 SELECT * FROM users WHERE username='Coffee_Dad'
 ```
 
-4 . How would you write the syntax to create a new user with a username of "Juice_Uncle"?
+4 . How would you write the SQL statement to create a new user with a username of "Juice_Uncle"?
 
-5 . How would you write the syntax to update Coffee_Dad's username to "Coffee_Dude"?
+5 . How would you write the SQL statement to update Coffee_Dad's username to "Coffee_Dude"?
 
-6 . How would you write the syntax to delete Tea_Mom from the `users` table.
+6 . How would you write the SQL statement to delete Tea_Mom from the `users` table.
 
 7 . When you enter your debit card into an ATM, how is your account identified? How does the bank associate that card number to your account? How does your bank store your account information? Do you think your address and phone number are stored the same way as your account number and how much money you have?
 
